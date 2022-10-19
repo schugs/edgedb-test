@@ -1,5 +1,5 @@
 FROM edgedb/edgedb
 
-USER edgedb
+USER sudo
 
 EXPOSE 5656
